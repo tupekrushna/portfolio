@@ -3,7 +3,7 @@ function showProject(projectId) {
         project1: {
             title: "Project 1: Interest Calculator",
             description: "An Interest Calculator built with HTML, CSS, and JavaScript allows users to compute simple or compound interest based on principal amount, interest rate, and time period. The user-friendly interface provides real-time calculations and displays results dynamically.",
-            link: "https://amolbhalerao007.github.io/Interest-Calculator/"
+            link: "#"
         },
         project2: {
             title: "Project 2: To-Do List App",
